@@ -1,6 +1,6 @@
 # Job-demand-estimation-using-text-embedding-of-patent-classification-code-and-occupational-data
 
-Description:
+**Description:**
 AI-powered web application that predicts future job demand by analyzing patent documents and occupational datasets using text embedding techniques. The system identifies relationships between emerging technologies and job roles, helping users understand future employment trends and workforce requirements.
 
 Technologies:
